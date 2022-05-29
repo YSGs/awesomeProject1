@@ -16,4 +16,5 @@ func main() {
 	fmt.Println("second")
 	fmt.Println("third")
 	fmt.Println("hot fix")
+	fmt.Println("test test test test ")
 }
